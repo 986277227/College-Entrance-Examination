@@ -1,0 +1,1 @@
+Data and model code related to the 2024 undergraduate college entrance examination recruitment outside Guangdong Province for Guangdong University of Technology. It is hereby clarified that this project solely displays code that does not involve confidential data of Guangdong University of Technology or the decision-making principles of the Admissions Office. 
